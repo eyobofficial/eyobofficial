@@ -1,11 +1,11 @@
 # About Me
 
-Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love creating backend RESTful API services and modern single page web applications. Once I build my application with passion and love, I deploy them to the cloud so you can appreciate them too! Learn more about me at my [website](www.eyob.tech).
+Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love creating backend RESTful API services and modern single page web applications. Once I build my application with passion and love :green_heart:, I deploy them to the cloud so you can appreciate them too! Learn more about me at my [website](www.eyob.tech).
 
 ## What I Do
 - [x] Build dynamic web applications.
 - [x] Create well-documented RESTful API endpoints.
-- [x] Setup CI/CI pipelines.
+- [x] Setup CI/CD pipelines.
 - [x] Deploy them on the cloud.
 
 ## My Programming Stacks
@@ -13,7 +13,7 @@ Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love 
 * `TypeScript`, `Angular`
 * `Python`, `Django`
 * `MYSQL`, `PostgreSQL`
-* `Docker`
+* `Docker`, `Travis CI`, `Circle CI`
 * `Digital Ocean`
 
 ## My Project Managment Tools
