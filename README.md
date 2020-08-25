@@ -1,6 +1,6 @@
 # Hi, I'm Eyob Tariku
 
-### My stacks
+### My preferred stacks are
 * `HTML5`, `CSS3`, `Bootstrap`, `JavaScript`
 * `TypeScript`, `Angular`
 * `Python`, `Django`
