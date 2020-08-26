@@ -16,12 +16,6 @@ Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love 
 * `Docker`, `Travis CI`, `Circle CI`
 * `Digital Ocean`
 
-## My Project Managment Tools
-* Trello
-* Jira
-* Git, Github, Bitbucket, GitLab
-* Slack
-
 ##  Get in Touch
 So don't be a stranger, contact me via:
 * [My website](https://www.eyob.tech)
