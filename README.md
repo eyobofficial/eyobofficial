@@ -1,4 +1,4 @@
-![Cover Photo](https://source.unsplash.com/collection/12174478/1000x100/)
+![Cover Photo](https://source.unsplash.com/collection/12174478/1200x240/)
 # About Me
 
 Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love creating backend RESTful API services and modern single page web applications. Once I build my application with passion and love :green_heart:, I deploy them to the cloud so you can appreciate them too! Learn more about me at my [website](www.eyob.tech).
