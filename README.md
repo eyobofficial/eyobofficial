@@ -1,4 +1,3 @@
-![Cover Photo](https://source.unsplash.com/collection/12174478/1200x260/)
 [![Website](./assets/fonts/web.svg)](https://www.eyob.tech) [![Twitter](./assets/fonts/twitter.svg)](https://twitter.com/eyobofficial)  [![LinkedIn](./assets/fonts/linkedin.svg)](https://www.linkedin.com/in/eyob-tariku/)  [![E-mail](./assets/fonts/email.svg)](mailto:hello@eyob.tech)
 
 # About Me
