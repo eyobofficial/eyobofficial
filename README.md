@@ -20,6 +20,6 @@ Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love 
 ##  Get in Touch
 So don't be a stranger, contact me via:
 * [My website](https://www.eyob.tech)
-* [Twitter](https://twitter/eyobofficial)
+* ![Twitter](./assets/fonts/twitter.svg)
 * [LinkedIn](https://www.linkedin.com/in/eyob-tariku/)
 * [E-mail](mailto:hello@eyob.tech)
