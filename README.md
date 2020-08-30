@@ -17,8 +17,13 @@ Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love 
 * `Docker`, `Travis CI`, `Circle CI`
 * `Digital Ocean`
 
-####  Get in Touch
-* [My website](https://www.eyob.tech)
+&nbsp;
+
+
+<center>So let's not be strangers anymore. Get in touch:</center>
+<center>
+[My website](https://www.eyob.tech)
 [![Twitter](./assets/fonts/twitter.svg)](https://twitter.com/eyobofficial)
-* [LinkedIn](https://www.linkedin.com/in/eyob-tariku/)
-* [E-mail](mailto:hello@eyob.tech)
+[LinkedIn](https://www.linkedin.com/in/eyob-tariku/)
+[E-mail](mailto:hello@eyob.tech)
+</center>
