@@ -21,8 +21,9 @@ Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love 
 
 <p align="center">
 <b>Get In Touch</b>
-[![Website](./assets/fonts/web.svg)](https://www.eyob.tech) / 
+</p>
+
+[![Website](./assets/fonts/web.svg)](https://www.eyob.tech) /
 [![Twitter](./assets/fonts/twitter.svg)](https://twitter.com/eyobofficial) / 
 [![LinkedIn](./assets/fonts/linkedin.svg)](https://www.linkedin.com/in/eyob-tariku/) / 
 [![E-mail](./assets/fonts/email.svg)](mailto:hello@eyob.tech)
-</p>
