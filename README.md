@@ -19,11 +19,10 @@ Hi, I am Eyob. I am a full-stack software developer and DevOps Engineer. I love 
 
 &nbsp;
 
-
-<center>So let's not be strangers anymore. Get in touch:</center>
-<center>
-[My website](https://www.eyob.tech)
-[![Twitter](./assets/fonts/twitter.svg)](https://twitter.com/eyobofficial)
-[LinkedIn](https://www.linkedin.com/in/eyob-tariku/)
-[E-mail](mailto:hello@eyob.tech)
-</center>
+<p align="center">
+<b>Get In Touch</b>
+[![Website](./assets/fonts/web.svg)](https://www.eyob.tech) / 
+[![Twitter](./assets/fonts/twitter.svg)](https://twitter.com/eyobofficial) / 
+[![LinkedIn](./assets/fonts/linkedin.svg)](https://www.linkedin.com/in/eyob-tariku/) / 
+[![E-mail](./assets/fonts/email.svg)](mailto:hello@eyob.tech)
+</p>
