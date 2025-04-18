@@ -1,4 +1,4 @@
-![Cover Photo](https://github.com/user-attachments/assets/534a0b65-9185-4c25-8c5e-2304b34f00f8)
+![Cover Photo](https://github.com/user-attachments/assets/534a0b65-9185-4c25-8c5e-2304b34f00f8/1200x260/)
 # About Me
 
 Hi, I am Eyob. I am a Senior Python Backend Engineer. I love creating API services (REST & GraphQL) and modern web applications. Once I build my applications with passion and love :green_heart:, I deploy them to the cloud so you can appreciate them too! Learn more about me at my [website](https://www.eyob.tech).
