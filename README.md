@@ -46,19 +46,6 @@ Lately, I've also been spending a lot of time with **AI, LLMs, and AI agents**, 
   <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="AI Agents" />
 </p>
 
-## GitHub at a glance
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eyobofficial&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=eyobofficial&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=8B5CF6&text_color=24292F" alt="Eyob's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobofficial&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobofficial&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=24292F" alt="Top languages" />
-  </picture>
-</p>
-
 ## Say hello
 
 🌐 [eyob.tech](https://www.eyob.tech) · [LinkedIn](https://www.linkedin.com/in/eyob-tariku/) · [X / Twitter](https://x.com/eyobofficial) · [Email](mailto:hello@eyob.tech)
